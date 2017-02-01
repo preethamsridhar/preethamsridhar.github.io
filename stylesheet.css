@@ -3,3 +3,9 @@ body {
   color: white;
   font-family: 'Rufina';
 }
+
+h1{
+  font-size: 50px;
+  background-color: gray;
+  opacity: 0.6;
+}
